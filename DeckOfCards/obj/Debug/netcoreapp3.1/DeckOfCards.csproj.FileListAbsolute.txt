@@ -1,0 +1,11 @@
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\Saied\source\repos\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
